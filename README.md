@@ -1,2 +1,3 @@
 # SimpleChatBot
-A simple implementation of a chatbot with short-term memory using langChain &amp; langGraph
+
+This repository contains evolving stages of Chatbot implementations utilizing LangChain & LangGraph.
